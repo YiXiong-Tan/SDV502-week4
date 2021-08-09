@@ -1,0 +1,5 @@
+C:\Users\Ian\Desktop\NMIT course\Sem 1\SDV502 Application testing\SDV502-week4\CustomerOrderService\CustomerOrderService\bin\Debug\CustomerOrderService.dll
+C:\Users\Ian\Desktop\NMIT course\Sem 1\SDV502 Application testing\SDV502-week4\CustomerOrderService\CustomerOrderService\bin\Debug\CustomerOrderService.pdb
+C:\Users\Ian\Desktop\NMIT course\Sem 1\SDV502 Application testing\SDV502-week4\CustomerOrderService\CustomerOrderService\obj\Debug\CustomerOrderService.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\NMIT course\Sem 1\SDV502 Application testing\SDV502-week4\CustomerOrderService\CustomerOrderService\obj\Debug\CustomerOrderService.dll
+C:\Users\Ian\Desktop\NMIT course\Sem 1\SDV502 Application testing\SDV502-week4\CustomerOrderService\CustomerOrderService\obj\Debug\CustomerOrderService.pdb
